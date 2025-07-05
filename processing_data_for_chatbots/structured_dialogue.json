@@ -1,0 +1,1235 @@
+[
+  {
+    "dialogue_id": "conv1",
+    "turns": [
+      {
+        "speaker": "Doctor",
+        "text": "\"Hey, how are you?\""
+      },
+      {
+        "speaker": "Patient",
+        "text": "Hi! I'm feeling great today."
+      },
+      {
+        "speaker": "Doctor",
+        "text": "What did you do today?"
+      },
+      {
+        "speaker": "Patient",
+        "text": "I played a baskeball match this morning."
+      },
+      {
+        "speaker": "Doctor",
+        "text": "How was it? Did you win?"
+      },
+      {
+        "speaker": "Patient",
+        "text": "Yes!! And I scored 40 points."
+      },
+      {
+        "speaker": "Doctor",
+        "text": "Wow! You did an amazing match! Did the sport afect your glucose?"
+      },
+      {
+        "speaker": "Patient",
+        "text": "\"Yes, my sugar level was low after lunch.\""
+      },
+      {
+        "speaker": "Doctor",
+        "text": "Did you inject too much insulin?"
+      },
+      {
+        "speaker": "Patient",
+        "text": "\"Yes, I didn't take into account the exercise.\""
+      },
+      {
+        "speaker": "Doctor",
+        "text": "\"Next time, think about the exercise when you calculate the insulin dose.\""
+      },
+      {
+        "speaker": "Patient",
+        "text": "Yes I will."
+      },
+      {
+        "speaker": "Doctor",
+        "text": "Bye."
+      },
+      {
+        "speaker": "Patient",
+        "text": "Goodbye."
+      },
+      {
+        "speaker": "Doctor",
+        "text": "Hello!"
+      },
+      {
+        "speaker": "Patient",
+        "text": "\"Hi, how is it going?\""
+      },
+      {
+        "speaker": "Doctor",
+        "text": "\"Great, I had a very good blood glucose level today.\""
+      },
+      {
+        "speaker": "Patient",
+        "text": "\"That's nice, keep it up! Having a good glucose level is great.\""
+      },
+      {
+        "speaker": "Doctor",
+        "text": "Thank you! But it may rise this afternoon."
+      },
+      {
+        "speaker": "Patient",
+        "text": "Why is that?"
+      },
+      {
+        "speaker": "Doctor",
+        "text": "Because I just ate a big sandwich now."
+      },
+      {
+        "speaker": "Patient",
+        "text": "And did you put your insulin?"
+      },
+      {
+        "speaker": "Doctor",
+        "text": "\"Yes, but maybe it was not enough.\""
+      },
+      {
+        "speaker": "Patient",
+        "text": "Then you should check your glucose in an hour and a half and correct the dose if necessary."
+      },
+      {
+        "speaker": "Doctor",
+        "text": "Thanks for your advice."
+      },
+      {
+        "speaker": "Patient",
+        "text": "\"No problem, see you later.\""
+      },
+      {
+        "speaker": "Doctor",
+        "text": "Till later."
+      },
+      {
+        "speaker": "Patient",
+        "text": "\"Hi, I need your help.\""
+      },
+      {
+        "speaker": "Doctor",
+        "text": "What's the matter?"
+      },
+      {
+        "speaker": "Patient",
+        "text": "I forgot to put my insulin after lunch and now I have a high sugar level."
+      },
+      {
+        "speaker": "Doctor",
+        "text": "\"Don't worry, you can put your insulin now and it will reduce.\""
+      },
+      {
+        "speaker": "Patient",
+        "text": "How much insulin should I put?"
+      },
+      {
+        "speaker": "Doctor",
+        "text": "Calculate your insulin dose taking into account when did you eat and your actual sugar level."
+      },
+      {
+        "speaker": "Patient",
+        "text": "\"Ok, I will do that.\""
+      },
+      {
+        "speaker": "Doctor",
+        "text": "You should also consider if you did some exercise today."
+      },
+      {
+        "speaker": "Patient",
+        "text": "\"No, I was home all day.\""
+      },
+      {
+        "speaker": "Doctor",
+        "text": "\"Maybe you should do some exercise, it will also help to reduce your blood sugar level.\""
+      },
+      {
+        "speaker": "Patient",
+        "text": "\"Perfect, I will go to do some running now. See you.\""
+      },
+      {
+        "speaker": "Doctor",
+        "text": "\"Have a nice day, bye.\""
+      },
+      {
+        "speaker": "Patient",
+        "text": "Bye bye."
+      },
+      {
+        "speaker": "Doctor",
+        "text": "\"Hi, what are you going to do today?\""
+      },
+      {
+        "speaker": "Patient",
+        "text": "I'm going to the mountain."
+      },
+      {
+        "speaker": "Doctor",
+        "text": "\"Be careful if you are going to walk a lot, you may need to decrease your insulin dose.\""
+      },
+      {
+        "speaker": "Patient",
+        "text": "\"Yes, I will decrease my insulin dose and I will also eat some cookies before leaving.\""
+      },
+      {
+        "speaker": "Doctor",
+        "text": "\"Well done, but it is possible that you need to check your glucose level during the day.\""
+      },
+      {
+        "speaker": "Patient",
+        "text": "\"Ok, but what should I do if my blood glucose level is low?\""
+      },
+      {
+        "speaker": "Doctor",
+        "text": "You should always have sugar in your bag in case your blood glucose drops."
+      },
+      {
+        "speaker": "Patient",
+        "text": "Does it have to be sugar?"
+      },
+      {
+        "speaker": "Doctor",
+        "text": "\"No, you could also drink a juice with enough amount of carbohidrates.\""
+      },
+      {
+        "speaker": "Patient",
+        "text": "\"Great, that is all I need to know.\""
+      },
+      {
+        "speaker": "Doctor",
+        "text": "Enjoy your day on the mountain."
+      },
+      {
+        "speaker": "Patient",
+        "text": "\"I will, bye!\""
+      },
+      {
+        "speaker": "Doctor",
+        "text": "See you later."
+      },
+      {
+        "speaker": "Patient",
+        "text": "\"Hello, how are you?\""
+      },
+      {
+        "speaker": "Doctor",
+        "text": "I am feeling stressed lately."
+      },
+      {
+        "speaker": "Patient",
+        "text": "What is making you feel that way?"
+      },
+      {
+        "speaker": "Doctor",
+        "text": "I have a very important exam today and I cannot fail."
+      },
+      {
+        "speaker": "Patient",
+        "text": "Have you studied for the exam?"
+      },
+      {
+        "speaker": "Doctor",
+        "text": "I was studying all this week for my exam and I think this affected my blood glucose."
+      },
+      {
+        "speaker": "Patient",
+        "text": "Why do you say that?"
+      },
+      {
+        "speaker": "Doctor",
+        "text": "\"I couldn't control my blood sugar level very good this week, it was always high.\""
+      },
+      {
+        "speaker": "Patient",
+        "text": "Did you change yor diet or insulin dose?"
+      },
+      {
+        "speaker": "Doctor",
+        "text": "\"No, I kept them the same as usual.\""
+      },
+      {
+        "speaker": "Patient",
+        "text": "The stress from the exam is probably causing this rise in your glucose level."
+      },
+      {
+        "speaker": "Doctor",
+        "text": "Will it improve after I finish my exam?"
+      },
+      {
+        "speaker": "Patient",
+        "text": "The glucose level will surely improve after you finish."
+      },
+      {
+        "speaker": "Doctor",
+        "text": "I hope so."
+      },
+      {
+        "speaker": "Patient",
+        "text": "\"See you, bye.\""
+      },
+      {
+        "speaker": "Doctor",
+        "text": "See you."
+      },
+      {
+        "speaker": "Patient",
+        "text": "How are you feeling today?"
+      },
+      {
+        "speaker": "Doctor",
+        "text": "\"Hey, I am not feeling right.\""
+      },
+      {
+        "speaker": "Patient",
+        "text": "How come?"
+      },
+      {
+        "speaker": "Doctor",
+        "text": "I think I got a virus and I have stomachache."
+      },
+      {
+        "speaker": "Patient",
+        "text": "Did this affect your glucose levels?"
+      },
+      {
+        "speaker": "Doctor",
+        "text": "\"Yes, I think so. My glucose is abnormally high since my stomach started hurting.\""
+      },
+      {
+        "speaker": "Patient",
+        "text": "\"This is normal, you should rise your insulin doses until you get better.\""
+      },
+      {
+        "speaker": "Doctor",
+        "text": "\"All right, I hope this helps me to have a better glucose control.\""
+      },
+      {
+        "speaker": "Patient",
+        "text": "\"Anyways, it should improve after you heal from the stomachache.\""
+      },
+      {
+        "speaker": "Doctor",
+        "text": "I hope I heal soon."
+      },
+      {
+        "speaker": "Patient",
+        "text": "I hope so too. Bye."
+      },
+      {
+        "speaker": "Doctor",
+        "text": "bye."
+      },
+      {
+        "speaker": "Patient",
+        "text": "\"Hey, what did you do yesterday?\""
+      },
+      {
+        "speaker": "Doctor",
+        "text": "I spent the whole day chilling and I went to a fancy restaurant for dinner."
+      },
+      {
+        "speaker": "Patient",
+        "text": "Nice! What did you order?"
+      },
+      {
+        "speaker": "Doctor",
+        "text": "I had a big steak with french fries and a cheesecake for dessert."
+      },
+      {
+        "speaker": "Patient",
+        "text": "Sounds delicious. Did you have to inject a big dose of insulin?"
+      },
+      {
+        "speaker": "Doctor",
+        "text": "\"Yes, I injected 15 units of fast action insulin. \""
+      },
+      {
+        "speaker": "Patient",
+        "text": "\"I see, the fries and the cheesecake have a lot of carbohidrates.\""
+      },
+      {
+        "speaker": "Doctor",
+        "text": "\"I had a good level of blood glucose two hours after dinner, but this morning I woke up quite high.\""
+      },
+      {
+        "speaker": "Patient",
+        "text": "What was your blood glucose level this morning?"
+      },
+      {
+        "speaker": "Doctor",
+        "text": "\"245, a bit higher than I would like.\""
+      },
+      {
+        "speaker": "Patient",
+        "text": "It's difficult to maintain always a good blood glucose level. Are you gonna do something to improve it?"
+      },
+      {
+        "speaker": "Doctor",
+        "text": "I'm going for a walk in the park now."
+      },
+      {
+        "speaker": "Patient",
+        "text": "\"Great, enjoy your walk.\""
+      },
+      {
+        "speaker": "Doctor",
+        "text": "\"You enjoy your day too, bye.\""
+      },
+      {
+        "speaker": "Patient",
+        "text": "Hi!!!"
+      },
+      {
+        "speaker": "Doctor",
+        "text": "What's up?"
+      },
+      {
+        "speaker": "Patient",
+        "text": "I am very excited! I have a date this afternoon."
+      },
+      {
+        "speaker": "Doctor",
+        "text": "What are you gonna do?"
+      },
+      {
+        "speaker": "Patient",
+        "text": "We are going to do ice skating."
+      },
+      {
+        "speaker": "Doctor",
+        "text": "That sounds great!"
+      },
+      {
+        "speaker": "Patient",
+        "text": "\"Yes, and after skating we will get some pizzas.\""
+      },
+      {
+        "speaker": "Doctor",
+        "text": "\"Hmmm I love pizza, but remember pizza has a high amount of carbohidrates.\""
+      },
+      {
+        "speaker": "Patient",
+        "text": "\"I know, but it shouldn't affect my sugar level that much because I will skate this afternoon.\""
+      },
+      {
+        "speaker": "Doctor",
+        "text": "Don't forget to measure your blood sugar level one hour and a half after dinner."
+      },
+      {
+        "speaker": "Patient",
+        "text": "\"I will, just in case I have to correct my insulin dose or eat more carbohidrates.\""
+      },
+      {
+        "speaker": "Doctor",
+        "text": "Enjoy your date."
+      },
+      {
+        "speaker": "Patient",
+        "text": "Thanks! I will tell you how it ends."
+      },
+      {
+        "speaker": "Doctor",
+        "text": "Goodbye!"
+      },
+      {
+        "speaker": "Patient",
+        "text": "See you soon."
+      },
+      {
+        "speaker": "Doctor",
+        "text": "Good morning!"
+      },
+      {
+        "speaker": "Patient",
+        "text": "\"Hey, it's nice to see you here again. How are you?\""
+      },
+      {
+        "speaker": "Doctor",
+        "text": "I woke up low today."
+      },
+      {
+        "speaker": "Patient",
+        "text": "\"Oh, that's sad. Did you eat some sugar to recover?\""
+      },
+      {
+        "speaker": "Doctor",
+        "text": "\"No, I had an orange juice and now I am feeling fine.\""
+      },
+      {
+        "speaker": "Patient",
+        "text": "That's great. Do you know why this happened?"
+      },
+      {
+        "speaker": "Doctor",
+        "text": "I think I calculated my dinner insulin dose incorrectly."
+      },
+      {
+        "speaker": "Patient",
+        "text": "You can also try to calculate more precisely the carbohidrate amount in your dinner."
+      },
+      {
+        "speaker": "Doctor",
+        "text": "\"Yes, I will try to eat more next time. I have to go, I'll talk to you later.\""
+      },
+      {
+        "speaker": "Patient",
+        "text": "\"Have a nice day, goodbye.\""
+      },
+      {
+        "speaker": "Doctor",
+        "text": "See you."
+      },
+      {
+        "speaker": "Patient",
+        "text": "\"Hey, I have amazing news to tell you.\""
+      },
+      {
+        "speaker": "Doctor",
+        "text": "You seem very excited. What's the matter?"
+      },
+      {
+        "speaker": "Patient",
+        "text": "I am going to get married next Sunday!!!"
+      },
+      {
+        "speaker": "Doctor",
+        "text": "Congratulations! Are you ready for the day?"
+      },
+      {
+        "speaker": "Patient",
+        "text": "\"Yes, but I feel very nervous because I still have things to prepare for the wedding.\""
+      },
+      {
+        "speaker": "Doctor",
+        "text": "\"I think the wedding is gonna be great, so you shouldn't overthink it.\""
+      },
+      {
+        "speaker": "Patient",
+        "text": "\"Yes, but it is inevitable. I think it is also affecting my glucose levels.\""
+      },
+      {
+        "speaker": "Doctor",
+        "text": "Have you noticed a rise in your glucose levels lately?"
+      },
+      {
+        "speaker": "Patient",
+        "text": "Exactly."
+      },
+      {
+        "speaker": "Doctor",
+        "text": "Then let's hope everything works out great."
+      },
+      {
+        "speaker": "Patient",
+        "text": "Thank you very much! See you."
+      },
+      {
+        "speaker": "Doctor",
+        "text": "\"Talk to you later, bye.\""
+      },
+      {
+        "speaker": "Patient",
+        "text": "Good night."
+      },
+      {
+        "speaker": "Doctor",
+        "text": "Hi."
+      },
+      {
+        "speaker": "Patient",
+        "text": "What are you doing?"
+      },
+      {
+        "speaker": "Doctor",
+        "text": "\"Not much, I am lying in the sofa watching a movie with some popcorn.\""
+      },
+      {
+        "speaker": "Patient",
+        "text": "That sounds like a great plan to me."
+      },
+      {
+        "speaker": "Doctor",
+        "text": "\"Well, I wanted to go out with friends for dinner because I stayed the whole day at home.\""
+      },
+      {
+        "speaker": "Patient",
+        "text": "Let me guess. Your friends were not free today?"
+      },
+      {
+        "speaker": "Doctor",
+        "text": "You got it right."
+      },
+      {
+        "speaker": "Patient",
+        "text": "And how was your glucose today? A lack of exercise tends to increase the glucose levels."
+      },
+      {
+        "speaker": "Doctor",
+        "text": "\"Yes, they were a bit high, but I really wanted to have some popcorn.\""
+      },
+      {
+        "speaker": "Patient",
+        "text": "You should increase your insulin dose if you want to have a good glucose level."
+      },
+      {
+        "speaker": "Doctor",
+        "text": "\"I am going to put insulin right now, thanks for the advice.\""
+      },
+      {
+        "speaker": "Patient",
+        "text": "\"No problem, I hope you enjoy the movie.\""
+      },
+      {
+        "speaker": "Doctor",
+        "text": "\"Thanks, talk to you tomorrow.\""
+      },
+      {
+        "speaker": "Patient",
+        "text": "Have a good night!"
+      },
+      {
+        "speaker": "Doctor",
+        "text": "\"Hey, how are you doing?\""
+      },
+      {
+        "speaker": "Patient",
+        "text": "\"Fine, but I could be doing better.\""
+      },
+      {
+        "speaker": "Doctor",
+        "text": "How come? Did something happen?"
+      },
+      {
+        "speaker": "Patient",
+        "text": "\"Every morning I wake up with my sugar a bit high, even if I went to bed with a good sugar level.\""
+      },
+      {
+        "speaker": "Doctor",
+        "text": "It could be related to the carbohidrate amount in your dinner."
+      },
+      {
+        "speaker": "Patient",
+        "text": "\"No, I don't think so. I eat different food and inject my insulin dose accordingly, but after four or five hours my sugar increases.\""
+      },
+      {
+        "speaker": "Doctor",
+        "text": "Did you change your insulin type or your lifestyle?"
+      },
+      {
+        "speaker": "Patient",
+        "text": "\"I had a leg injury and I've stopped doing sport, and in the past I used to do a lot.\""
+      },
+      {
+        "speaker": "Doctor",
+        "text": "That could be the cause behind your rise in glucose."
+      },
+      {
+        "speaker": "Patient",
+        "text": "\"Yes, I suppose so. Should I increase my insulin dose?\""
+      },
+      {
+        "speaker": "Doctor",
+        "text": "\"You probably should increase the dose, but speak with your doctor first.\""
+      },
+      {
+        "speaker": "Patient",
+        "text": "\"Thanks, I will contact my doctor to solve this problem.\""
+      },
+      {
+        "speaker": "Doctor",
+        "text": "\"Great, have a nice day.\""
+      },
+      {
+        "speaker": "Patient",
+        "text": "\"You too, bye!\""
+      },
+      {
+        "speaker": "Doctor",
+        "text": "\"Hi, are you awake?\""
+      },
+      {
+        "speaker": "Patient",
+        "text": "\"Yes, I am. What's the matter?\""
+      },
+      {
+        "speaker": "Doctor",
+        "text": "I just woke up in the middle of the night and I cannot sleep again."
+      },
+      {
+        "speaker": "Patient",
+        "text": "Did you check your glucose level?"
+      },
+      {
+        "speaker": "Doctor",
+        "text": "\"I didn't think about that, I will check it right now.\""
+      },
+      {
+        "speaker": "Patient",
+        "text": "\"Okay, I will wait here.\""
+      },
+      {
+        "speaker": "Doctor",
+        "text": "\"My blood glucose level is 56, so I am a bit low.\""
+      },
+      {
+        "speaker": "Patient",
+        "text": "You should eat 5g of sugar or a fast acting glucose like a fruit juice."
+      },
+      {
+        "speaker": "Doctor",
+        "text": "\"Yes, I will eat something now. How did you think about the glucose level?\""
+      },
+      {
+        "speaker": "Patient",
+        "text": "When you wake up in the middle of the night and you cannot sleep even though you are tired is because your body is not ok."
+      },
+      {
+        "speaker": "Doctor",
+        "text": "Nice to know. Next time I will check my glucose for sure."
+      },
+      {
+        "speaker": "Patient",
+        "text": "\"Great, but be careful. You may need to eat something else.\""
+      },
+      {
+        "speaker": "Doctor",
+        "text": "\"Yes, I will also eat a banana. Thanks.\""
+      },
+      {
+        "speaker": "Patient",
+        "text": "You're wellcome. Good night."
+      },
+      {
+        "speaker": "Doctor",
+        "text": "Good night."
+      },
+      {
+        "speaker": "Patient",
+        "text": "How was your afternoon? What did you do?"
+      },
+      {
+        "speaker": "Doctor",
+        "text": "\"Oh hi! My afternoon was amazing, I went to a rock concert with my girlfriend.\""
+      },
+      {
+        "speaker": "Patient",
+        "text": "That is really cool."
+      },
+      {
+        "speaker": "Doctor",
+        "text": "\"Yes, and we also had some beers during the concert. It was amazing.\""
+      },
+      {
+        "speaker": "Patient",
+        "text": "That sounds really good."
+      },
+      {
+        "speaker": "Doctor",
+        "text": "\"Yes, but now my glucose level is a bit high.\""
+      },
+      {
+        "speaker": "Patient",
+        "text": "Could this be related to the beers?"
+      },
+      {
+        "speaker": "Doctor",
+        "text": "\"I am sure that is the cause. I also danced in the concert, so I didn't put any insulin during the concert.\""
+      },
+      {
+        "speaker": "Patient",
+        "text": "Seems that the exercise you did while dancing in the concert wasn't enough to lower your glucose level."
+      },
+      {
+        "speaker": "Doctor",
+        "text": "\"No, so now I have to inject some insulin.\""
+      },
+      {
+        "speaker": "Patient",
+        "text": "\"Be careful. Even if you have high glucose right now, you still did some exercise and it could affect your glucose later.\""
+      },
+      {
+        "speaker": "Doctor",
+        "text": "Well thought!! I will decrease my insulin dose a little bit."
+      },
+      {
+        "speaker": "Patient",
+        "text": "\"Okay, but don't forget to check your glucose level one and a half hours after the insulin injection.\""
+      },
+      {
+        "speaker": "Doctor",
+        "text": "\"Don't worry, I will.\""
+      },
+      {
+        "speaker": "Patient",
+        "text": "Great to hear. Have a good night."
+      },
+      {
+        "speaker": "Doctor",
+        "text": "\"You too, good night.\""
+      },
+      {
+        "speaker": "Patient",
+        "text": "\"Hey, what are you doing right now?\""
+      },
+      {
+        "speaker": "Doctor",
+        "text": "\"Hi, I just finished cooking the lunch for today.\""
+      },
+      {
+        "speaker": "Patient",
+        "text": "What did you prepare?"
+      },
+      {
+        "speaker": "Doctor",
+        "text": "I cooked a whole turkey in the oven with some potatoes."
+      },
+      {
+        "speaker": "Patient",
+        "text": "It sounds delicious. I assume you are not gonna eat a whole turkey alone?"
+      },
+      {
+        "speaker": "Doctor",
+        "text": "Of course not! I am inviting my family for lunch."
+      },
+      {
+        "speaker": "Patient",
+        "text": "\"I hope you have a wonderful lunch. Don't forget to inject a correct dose of insulin, potatoes have a lot of carbohidrates.\""
+      },
+      {
+        "speaker": "Doctor",
+        "text": "\"Yes, I already thought about that, so I will increase my insulin dose today.\""
+      },
+      {
+        "speaker": "Patient",
+        "text": "Fantastic. Don't forget to measure your blood glucose level one hour and a half after your lunch."
+      },
+      {
+        "speaker": "Doctor",
+        "text": "\"I will set an alarm so I don't forget about that. My family is coming, so I have to leave you now.\""
+      },
+      {
+        "speaker": "Patient",
+        "text": "Enjoy your lunch with your family. Bye."
+      },
+      {
+        "speaker": "Doctor",
+        "text": "\"Thank you, goodbye.\""
+      },
+      {
+        "speaker": "Patient",
+        "text": "\"Hi, how are you?\""
+      },
+      {
+        "speaker": "Doctor",
+        "text": "Everything fine. And you?"
+      },
+      {
+        "speaker": "Patient",
+        "text": "I'm very tired today."
+      },
+      {
+        "speaker": "Doctor",
+        "text": "What did you do?"
+      },
+      {
+        "speaker": "Patient",
+        "text": "I worked all day in a storehouse packing material and moving boxes."
+      },
+      {
+        "speaker": "Doctor",
+        "text": "\"Wow, it seems you had an exhausting day. Could you control your glucose fine?\""
+      },
+      {
+        "speaker": "Patient",
+        "text": "\"I measured my glucose before lunch and I was quite good, at 85. However, I didn't check it again since then.\""
+      },
+      {
+        "speaker": "Doctor",
+        "text": "\"You should check it again now, you did a lot of exercise. What did you eat for lunch?\""
+      },
+      {
+        "speaker": "Patient",
+        "text": "\"I had a salad and a steak with potatoes, and I injected 5 units of fast action insulin.\""
+      },
+      {
+        "speaker": "Doctor",
+        "text": "\"You should check your glucose level again now, maybe you didn't eat enough carbohidrates.\""
+      },
+      {
+        "speaker": "Patient",
+        "text": "\"It seems I didn't, I am at 46 now. What should I eat?\""
+      },
+      {
+        "speaker": "Doctor",
+        "text": "\"Since no fast action insulin is acting now, you should improve only by having 5 g of sugar or 200 cl of juice with sugar.\""
+      },
+      {
+        "speaker": "Patient",
+        "text": "Ok I will go to eat now. See you later."
+      },
+      {
+        "speaker": "Doctor",
+        "text": "\"See you, goodbye.\""
+      },
+      {
+        "speaker": "Patient",
+        "text": "\"Hey, how is your day going?\""
+      },
+      {
+        "speaker": "Doctor",
+        "text": "\"Not bad, and yours?\""
+      },
+      {
+        "speaker": "Patient",
+        "text": "\"I'm also fine, but somehow I don't feel quite well.\""
+      },
+      {
+        "speaker": "Doctor",
+        "text": "\"Oh, I'm sorry. Why is that?\""
+      },
+      {
+        "speaker": "Patient",
+        "text": "\"Because no matter how much water I drink, I still feel thirsty.\""
+      },
+      {
+        "speaker": "Doctor",
+        "text": "That is a common symptom of having a high blood glucose level. Have you checked it?"
+      },
+      {
+        "speaker": "Patient",
+        "text": "\"No, I didn't check it. I actually drank a beer one hour ago, could this be affecting my glucose?\""
+      },
+      {
+        "speaker": "Doctor",
+        "text": "\"Yes, that beer is definetely the cause for your thirst. However, you should check your glucose.\""
+      },
+      {
+        "speaker": "Patient",
+        "text": "\"Ok, I did check it and I was at 320, quite high. I'm gonna put some fast action insulin to be good again.\""
+      },
+      {
+        "speaker": "Doctor",
+        "text": "\"Yes, but measure your insulin dose carefully or you may get down on blood glucose.\""
+      },
+      {
+        "speaker": "Patient",
+        "text": "I have injected 7 units of insulin. I hope the thirst disappears soon."
+      },
+      {
+        "speaker": "Doctor",
+        "text": "I'm sure it will. Think about this the next time you drink a beer."
+      },
+      {
+        "speaker": "Patient",
+        "text": "\"Sure I will, thanks for your help.\""
+      },
+      {
+        "speaker": "Doctor",
+        "text": "\"You're welcome, you can contact me anytime you feel like this.\""
+      },
+      {
+        "speaker": "Patient",
+        "text": "\"See you later, bye.\""
+      },
+      {
+        "speaker": "Doctor",
+        "text": "Goodbye."
+      },
+      {
+        "speaker": "Patient",
+        "text": "\"Hi, how are you feeling today?\""
+      },
+      {
+        "speaker": "Doctor",
+        "text": "My head is a bit dizzy. I think my glucose is low."
+      },
+      {
+        "speaker": "Patient",
+        "text": "\"I think so too, you should eat something to raise your glucose.\""
+      },
+      {
+        "speaker": "Doctor",
+        "text": "I was thinking about eating some cheese."
+      },
+      {
+        "speaker": "Patient",
+        "text": "\"Cheese is tasty, but it's not the best thing for you right now. You have to eat a bit of sugar, or a juice.\""
+      },
+      {
+        "speaker": "Doctor",
+        "text": "\"Ok, but I really want to eat cheese.\""
+      },
+      {
+        "speaker": "Patient",
+        "text": "\"Then you should eat the cheese with some bread, it will also help to raise your glucose.\""
+      },
+      {
+        "speaker": "Doctor",
+        "text": "I will do that."
+      },
+      {
+        "speaker": "Patient",
+        "text": "\"But first you should drink a juice, it will make you feel better.\""
+      },
+      {
+        "speaker": "Doctor",
+        "text": "\"Ok, I will drink a juice and eat bread with cheese.\""
+      },
+      {
+        "speaker": "Patient",
+        "text": "\"Right, but be careful with the bread, too much could raise your glucose too much.\""
+      },
+      {
+        "speaker": "Doctor",
+        "text": "I will only have a slice of bread."
+      },
+      {
+        "speaker": "Patient",
+        "text": "\"Perfect, enjoy your food.\""
+      },
+      {
+        "speaker": "Doctor",
+        "text": "\"Thank you, bye.\""
+      },
+      {
+        "speaker": "Patient",
+        "text": "\"Hey, how are you?\""
+      },
+      {
+        "speaker": "Doctor",
+        "text": "\"I'm fine, and you?\""
+      },
+      {
+        "speaker": "Patient",
+        "text": "Also fine. What are you doing?"
+      },
+      {
+        "speaker": "Doctor",
+        "text": "I have just finished cooking my dinner."
+      },
+      {
+        "speaker": "Patient",
+        "text": "What did you cook for dinner?"
+      },
+      {
+        "speaker": "Doctor",
+        "text": "I grilled chicken breast and also cooked some rice."
+      },
+      {
+        "speaker": "Patient",
+        "text": "\"That sounds good, but do you know that rice has a lot of carbohidrates?\""
+      },
+      {
+        "speaker": "Doctor",
+        "text": "\"Yes I do, so I will inject a higher than usual dose of insulin.\""
+      },
+      {
+        "speaker": "Patient",
+        "text": "\"Great, but don't forget to measure your blood glucose level one hour and a half after your insulin injection.\""
+      },
+      {
+        "speaker": "Doctor",
+        "text": "\"I will measure it, because last time I didn't do it and my glucose rose higher than I wanted.\""
+      },
+      {
+        "speaker": "Patient",
+        "text": "\"You have to be careful with some food like potatoes, rice or pasta.\""
+      },
+      {
+        "speaker": "Doctor",
+        "text": "\"Yes. I will leave now, my chicken will cool if I wait more.\""
+      },
+      {
+        "speaker": "Patient",
+        "text": "\"Okay, enjoy your dinner. Talk to you tomorrow.\""
+      },
+      {
+        "speaker": "Doctor",
+        "text": "\"Ok, goodbye.\""
+      },
+      {
+        "speaker": "Patient",
+        "text": "\"Hello, how are you?\""
+      },
+      {
+        "speaker": "Doctor",
+        "text": "\"I'm great, and you?\""
+      },
+      {
+        "speaker": "Patient",
+        "text": "\"Quite bad, my blood glucose is really high.\""
+      },
+      {
+        "speaker": "Doctor",
+        "text": "You should inject insulin to reduce your blood glucose."
+      },
+      {
+        "speaker": "Patient",
+        "text": "\"I know, but I'm going to a football match now and I don't want to have a low glucose level during the match.\""
+      },
+      {
+        "speaker": "Doctor",
+        "text": "\"But if you don't inject insulin it is possible that you have a high glucose for a long time, and you won't feel good.\""
+      },
+      {
+        "speaker": "Patient",
+        "text": "\"Ok, then what should I do?\""
+      },
+      {
+        "speaker": "Doctor",
+        "text": "You should speak with your doctor to be certain on what to do."
+      },
+      {
+        "speaker": "Patient",
+        "text": "\"Yes, I will speak with him and try to improve my blood glucose level.\""
+      },
+      {
+        "speaker": "Doctor",
+        "text": "I hope you win your football match."
+      },
+      {
+        "speaker": "Patient",
+        "text": "I hope so too. See you later."
+      },
+      {
+        "speaker": "Doctor",
+        "text": "\"Bye, see you soon.\""
+      },
+      {
+        "speaker": "Patient",
+        "text": "Hello!"
+      },
+      {
+        "speaker": "Doctor",
+        "text": "\"Hey, what's up?\""
+      },
+      {
+        "speaker": "Patient",
+        "text": "I'm very nervous. What about you?"
+      },
+      {
+        "speaker": "Doctor",
+        "text": "I'm fine. Why are you so nervous?"
+      },
+      {
+        "speaker": "Patient",
+        "text": "I have a very important exam this afternoon and I cannot fail."
+      },
+      {
+        "speaker": "Doctor",
+        "text": "Have you studied for your exam?"
+      },
+      {
+        "speaker": "Patient",
+        "text": "\"Yes, I have studied but I haven't been able to control my glucose lately. I fear to be low during my exam.\""
+      },
+      {
+        "speaker": "Doctor",
+        "text": "How is your blood glucose level now?"
+      },
+      {
+        "speaker": "Patient",
+        "text": "\"It is good, 92. But I don't know if it will reduce until my exam.\""
+      },
+      {
+        "speaker": "Doctor",
+        "text": "Maybe you could eat something with low carbohidrate amount to raise a little bit your blood glucose."
+      },
+      {
+        "speaker": "Patient",
+        "text": "\"Yes, I want to do that but I don't know what to eat.\""
+      },
+      {
+        "speaker": "Doctor",
+        "text": "\"Maybe a small biscuit or some fruit, no more than 5g of carbohidrates.\""
+      },
+      {
+        "speaker": "Patient",
+        "text": "\"Great, I will eat a small banana then.\""
+      },
+      {
+        "speaker": "Doctor",
+        "text": "Enjoy your banana and good luck on your exam."
+      },
+      {
+        "speaker": "Patient",
+        "text": "\"Thank you, see you later.\""
+      },
+      {
+        "speaker": "Doctor",
+        "text": "Later."
+      },
+      {
+        "speaker": "Patient",
+        "text": "Hey!!"
+      },
+      {
+        "speaker": "Doctor",
+        "text": "\"Hello, how are you feeling today?\""
+      },
+      {
+        "speaker": "Patient",
+        "text": "\"Great, and you?\""
+      },
+      {
+        "speaker": "Doctor",
+        "text": "I feel horrible today. Yesterday I had a big party and today I have hangover."
+      },
+      {
+        "speaker": "Patient",
+        "text": "\"If you feel really bad, you could take an ibuprofen. How was your party?\""
+      },
+      {
+        "speaker": "Doctor",
+        "text": "\"It was great, we played some drinking games, ate some pizzas and danced till the morning.\""
+      },
+      {
+        "speaker": "Patient",
+        "text": "It sounds amazing. Did you check your glucose during the party?"
+      },
+      {
+        "speaker": "Doctor",
+        "text": "\"No, I checked it before going to bed and I was quite high, so I had to inject insulin.\""
+      },
+      {
+        "speaker": "Patient",
+        "text": "And what was your glucose level when you woke up?"
+      },
+      {
+        "speaker": "Doctor",
+        "text": "\"I was still high, but I should be fine.\""
+      },
+      {
+        "speaker": "Patient",
+        "text": "Did you inject your slow action insulin?"
+      },
+      {
+        "speaker": "Doctor",
+        "text": "\"I should have, but I don't really remember if I injected during the party.\""
+      },
+      {
+        "speaker": "Patient",
+        "text": "That could explain why you woke up high. You should speak with your doctor to know what you should do."
+      },
+      {
+        "speaker": "Doctor",
+        "text": "\"Yes, I will. At least this will make my hangover better.\""
+      },
+      {
+        "speaker": "Patient",
+        "text": "Definetely. I hope you get better soon."
+      },
+      {
+        "speaker": "Doctor",
+        "text": "\"Thanks, talk to you later.\""
+      }
+    ]
+  }
+]

@@ -1,0 +1,307 @@
+"Hey, how are you?"
+Hi! I'm feeling great today.
+What did you do today?
+I played a baskeball match this morning.
+How was it? Did you win?
+Yes!! And I scored 40 points.
+Wow! You did an amazing match! Did the sport afect your glucose?
+"Yes, my sugar level was low after lunch."
+Did you inject too much insulin?
+"Yes, I didn't take into account the exercise."
+"Next time, think about the exercise when you calculate the insulin dose."
+Yes I will.
+Bye.
+Goodbye.
+Hello!
+"Hi, how is it going?"
+"Great, I had a very good blood glucose level today."
+"That's nice, keep it up! Having a good glucose level is great."
+Thank you! But it may rise this afternoon.
+Why is that?
+Because I just ate a big sandwich now.
+And did you put your insulin?
+"Yes, but maybe it was not enough."
+Then you should check your glucose in an hour and a half and correct the dose if necessary.
+Thanks for your advice.
+"No problem, see you later."
+Till later.
+"Hi, I need your help."
+What's the matter?
+I forgot to put my insulin after lunch and now I have a high sugar level.
+"Don't worry, you can put your insulin now and it will reduce."
+How much insulin should I put?
+Calculate your insulin dose taking into account when did you eat and your actual sugar level.
+"Ok, I will do that."
+You should also consider if you did some exercise today.
+"No, I was home all day."
+"Maybe you should do some exercise, it will also help to reduce your blood sugar level."
+"Perfect, I will go to do some running now. See you."
+"Have a nice day, bye."
+Bye bye.
+"Hi, what are you going to do today?"
+I'm going to the mountain.
+"Be careful if you are going to walk a lot, you may need to decrease your insulin dose."
+"Yes, I will decrease my insulin dose and I will also eat some cookies before leaving."
+"Well done, but it is possible that you need to check your glucose level during the day."
+"Ok, but what should I do if my blood glucose level is low?"
+You should always have sugar in your bag in case your blood glucose drops.
+Does it have to be sugar?
+"No, you could also drink a juice with enough amount of carbohidrates."
+"Great, that is all I need to know."
+Enjoy your day on the mountain.
+"I will, bye!"
+See you later.
+"Hello, how are you?"
+I am feeling stressed lately.
+What is making you feel that way?
+I have a very important exam today and I cannot fail.
+Have you studied for the exam?
+I was studying all this week for my exam and I think this affected my blood glucose.
+Why do you say that?
+"I couldn't control my blood sugar level very good this week, it was always high."
+Did you change yor diet or insulin dose?
+"No, I kept them the same as usual."
+The stress from the exam is probably causing this rise in your glucose level.
+Will it improve after I finish my exam?
+The glucose level will surely improve after you finish.
+I hope so.
+"See you, bye."
+See you.
+How are you feeling today?
+"Hey, I am not feeling right."
+How come?
+I think I got a virus and I have stomachache.
+Did this affect your glucose levels?
+"Yes, I think so. My glucose is abnormally high since my stomach started hurting."
+"This is normal, you should rise your insulin doses until you get better."
+"All right, I hope this helps me to have a better glucose control."
+"Anyways, it should improve after you heal from the stomachache."
+I hope I heal soon.
+I hope so too. Bye.
+bye.
+"Hey, what did you do yesterday?"
+I spent the whole day chilling and I went to a fancy restaurant for dinner.
+Nice! What did you order?
+I had a big steak with french fries and a cheesecake for dessert.
+Sounds delicious. Did you have to inject a big dose of insulin?
+"Yes, I injected 15 units of fast action insulin. "
+"I see, the fries and the cheesecake have a lot of carbohidrates."
+"I had a good level of blood glucose two hours after dinner, but this morning I woke up quite high."
+What was your blood glucose level this morning?
+"245, a bit higher than I would like."
+It's difficult to maintain always a good blood glucose level. Are you gonna do something to improve it?
+I'm going for a walk in the park now.
+"Great, enjoy your walk."
+"You enjoy your day too, bye."
+Hi!!!
+What's up?
+I am very excited! I have a date this afternoon.
+What are you gonna do?
+We are going to do ice skating.
+That sounds great!
+"Yes, and after skating we will get some pizzas."
+"Hmmm I love pizza, but remember pizza has a high amount of carbohidrates."
+"I know, but it shouldn't affect my sugar level that much because I will skate this afternoon."
+Don't forget to measure your blood sugar level one hour and a half after dinner.
+"I will, just in case I have to correct my insulin dose or eat more carbohidrates."
+Enjoy your date.
+Thanks! I will tell you how it ends.
+Goodbye!
+See you soon.
+Good morning!
+"Hey, it's nice to see you here again. How are you?"
+I woke up low today.
+"Oh, that's sad. Did you eat some sugar to recover?"
+"No, I had an orange juice and now I am feeling fine."
+That's great. Do you know why this happened?
+I think I calculated my dinner insulin dose incorrectly.
+You can also try to calculate more precisely the carbohidrate amount in your dinner.
+"Yes, I will try to eat more next time. I have to go, I'll talk to you later."
+"Have a nice day, goodbye."
+See you.
+"Hey, I have amazing news to tell you."
+You seem very excited. What's the matter?
+I am going to get married next Sunday!!!
+Congratulations! Are you ready for the day?
+"Yes, but I feel very nervous because I still have things to prepare for the wedding."
+"I think the wedding is gonna be great, so you shouldn't overthink it."
+"Yes, but it is inevitable. I think it is also affecting my glucose levels."
+Have you noticed a rise in your glucose levels lately?
+Exactly.
+Then let's hope everything works out great.
+Thank you very much! See you.
+"Talk to you later, bye."
+Good night.
+Hi. 
+What are you doing?
+"Not much, I am lying in the sofa watching a movie with some popcorn."
+That sounds like a great plan to me.
+"Well, I wanted to go out with friends for dinner because I stayed the whole day at home."
+Let me guess. Your friends were not free today?
+You got it right.
+And how was your glucose today? A lack of exercise tends to increase the glucose levels.
+"Yes, they were a bit high, but I really wanted to have some popcorn."
+You should increase your insulin dose if you want to have a good glucose level.
+"I am going to put insulin right now, thanks for the advice."
+"No problem, I hope you enjoy the movie."
+"Thanks, talk to you tomorrow."
+Have a good night!
+"Hey, how are you doing?"
+"Fine, but I could be doing better."
+How come? Did something happen?
+"Every morning I wake up with my sugar a bit high, even if I went to bed with a good sugar level."
+It could be related to the carbohidrate amount in your dinner.
+"No, I don't think so. I eat different food and inject my insulin dose accordingly, but after four or five hours my sugar increases."
+Did you change your insulin type or your lifestyle?
+"I had a leg injury and I've stopped doing sport, and in the past I used to do a lot."
+That could be the cause behind your rise in glucose.
+"Yes, I suppose so. Should I increase my insulin dose?"
+"You probably should increase the dose, but speak with your doctor first."
+"Thanks, I will contact my doctor to solve this problem."
+"Great, have a nice day."
+"You too, bye!"
+"Hi, are you awake?"
+"Yes, I am. What's the matter?"
+I just woke up in the middle of the night and I cannot sleep again.
+Did you check your glucose level?
+"I didn't think about that, I will check it right now."
+"Okay, I will wait here."
+"My blood glucose level is 56, so I am a bit low."
+You should eat 5g of sugar or a fast acting glucose like a fruit juice.
+"Yes, I will eat something now. How did you think about the glucose level?"
+When you wake up in the middle of the night and you cannot sleep even though you are tired is because your body is not ok.
+Nice to know. Next time I will check my glucose for sure.
+"Great, but be careful. You may need to eat something else."
+"Yes, I will also eat a banana. Thanks."
+You're wellcome. Good night.
+Good night.
+How was your afternoon? What did you do?
+"Oh hi! My afternoon was amazing, I went to a rock concert with my girlfriend."
+That is really cool.
+"Yes, and we also had some beers during the concert. It was amazing."
+That sounds really good.
+"Yes, but now my glucose level is a bit high."
+Could this be related to the beers?
+"I am sure that is the cause. I also danced in the concert, so I didn't put any insulin during the concert."
+Seems that the exercise you did while dancing in the concert wasn't enough to lower your glucose level.
+"No, so now I have to inject some insulin."
+"Be careful. Even if you have high glucose right now, you still did some exercise and it could affect your glucose later."
+Well thought!! I will decrease my insulin dose a little bit.
+"Okay, but don't forget to check your glucose level one and a half hours after the insulin injection."
+"Don't worry, I will."
+Great to hear. Have a good night.
+"You too, good night."
+"Hey, what are you doing right now?"
+"Hi, I just finished cooking the lunch for today."
+What did you prepare?
+I cooked a whole turkey in the oven with some potatoes.
+It sounds delicious. I assume you are not gonna eat a whole turkey alone?
+Of course not! I am inviting my family for lunch.
+"I hope you have a wonderful lunch. Don't forget to inject a correct dose of insulin, potatoes have a lot of carbohidrates."
+"Yes, I already thought about that, so I will increase my insulin dose today."
+Fantastic. Don't forget to measure your blood glucose level one hour and a half after your lunch.
+"I will set an alarm so I don't forget about that. My family is coming, so I have to leave you now."
+Enjoy your lunch with your family. Bye.
+"Thank you, goodbye."
+"Hi, how are you?"
+Everything fine. And you?
+I'm very tired today.
+What did you do?
+I worked all day in a storehouse packing material and moving boxes.
+"Wow, it seems you had an exhausting day. Could you control your glucose fine?"
+"I measured my glucose before lunch and I was quite good, at 85. However, I didn't check it again since then."
+"You should check it again now, you did a lot of exercise. What did you eat for lunch?"
+"I had a salad and a steak with potatoes, and I injected 5 units of fast action insulin."
+"You should check your glucose level again now, maybe you didn't eat enough carbohidrates."
+"It seems I didn't, I am at 46 now. What should I eat?"
+"Since no fast action insulin is acting now, you should improve only by having 5 g of sugar or 200 cl of juice with sugar."
+Ok I will go to eat now. See you later.
+"See you, goodbye."
+"Hey, how is your day going?"
+"Not bad, and yours?"
+"I'm also fine, but somehow I don't feel quite well."
+"Oh, I'm sorry. Why is that?"
+"Because no matter how much water I drink, I still feel thirsty."
+That is a common symptom of having a high blood glucose level. Have you checked it?
+"No, I didn't check it. I actually drank a beer one hour ago, could this be affecting my glucose?"
+"Yes, that beer is definetely the cause for your thirst. However, you should check your glucose."
+"Ok, I did check it and I was at 320, quite high. I'm gonna put some fast action insulin to be good again."
+"Yes, but measure your insulin dose carefully or you may get down on blood glucose."
+I have injected 7 units of insulin. I hope the thirst disappears soon.
+I'm sure it will. Think about this the next time you drink a beer.
+"Sure I will, thanks for your help."
+"You're welcome, you can contact me anytime you feel like this."
+"See you later, bye."
+Goodbye.
+"Hi, how are you feeling today?"
+My head is a bit dizzy. I think my glucose is low.
+"I think so too, you should eat something to raise your glucose."
+I was thinking about eating some cheese.
+"Cheese is tasty, but it's not the best thing for you right now. You have to eat a bit of sugar, or a juice."
+"Ok, but I really want to eat cheese."
+"Then you should eat the cheese with some bread, it will also help to raise your glucose."
+I will do that.
+"But first you should drink a juice, it will make you feel better."
+"Ok, I will drink a juice and eat bread with cheese."
+"Right, but be careful with the bread, too much could raise your glucose too much."
+I will only have a slice of bread.
+"Perfect, enjoy your food."
+"Thank you, bye."
+"Hey, how are you?"
+"I'm fine, and you?"
+Also fine. What are you doing?
+I have just finished cooking my dinner.
+What did you cook for dinner?
+I grilled chicken breast and also cooked some rice.
+"That sounds good, but do you know that rice has a lot of carbohidrates?"
+"Yes I do, so I will inject a higher than usual dose of insulin."
+"Great, but don't forget to measure your blood glucose level one hour and a half after your insulin injection."
+"I will measure it, because last time I didn't do it and my glucose rose higher than I wanted."
+"You have to be careful with some food like potatoes, rice or pasta."
+"Yes. I will leave now, my chicken will cool if I wait more."
+"Okay, enjoy your dinner. Talk to you tomorrow."
+"Ok, goodbye."
+"Hello, how are you?"
+"I'm great, and you?"
+"Quite bad, my blood glucose is really high."
+You should inject insulin to reduce your blood glucose.
+"I know, but I'm going to a football match now and I don't want to have a low glucose level during the match."
+"But if you don't inject insulin it is possible that you have a high glucose for a long time, and you won't feel good."
+"Ok, then what should I do?"
+You should speak with your doctor to be certain on what to do.
+"Yes, I will speak with him and try to improve my blood glucose level."
+I hope you win your football match.
+I hope so too. See you later.
+"Bye, see you soon."
+Hello!
+"Hey, what's up?"
+I'm very nervous. What about you?
+I'm fine. Why are you so nervous?
+I have a very important exam this afternoon and I cannot fail.
+Have you studied for your exam?
+"Yes, I have studied but I haven't been able to control my glucose lately. I fear to be low during my exam."
+How is your blood glucose level now?
+"It is good, 92. But I don't know if it will reduce until my exam."
+Maybe you could eat something with low carbohidrate amount to raise a little bit your blood glucose.
+"Yes, I want to do that but I don't know what to eat."
+"Maybe a small biscuit or some fruit, no more than 5g of carbohidrates."
+"Great, I will eat a small banana then."
+Enjoy your banana and good luck on your exam.
+"Thank you, see you later."
+Later.
+Hey!!
+"Hello, how are you feeling today?"
+"Great, and you?"
+I feel horrible today. Yesterday I had a big party and today I have hangover.
+"If you feel really bad, you could take an ibuprofen. How was your party?"
+"It was great, we played some drinking games, ate some pizzas and danced till the morning."
+It sounds amazing. Did you check your glucose during the party?
+"No, I checked it before going to bed and I was quite high, so I had to inject insulin."
+And what was your glucose level when you woke up?
+"I was still high, but I should be fine."
+Did you inject your slow action insulin?
+"I should have, but I don't really remember if I injected during the party."
+That could explain why you woke up high. You should speak with your doctor to know what you should do.
+"Yes, I will. At least this will make my hangover better."
+Definetely. I hope you get better soon.
+"Thanks, talk to you later."

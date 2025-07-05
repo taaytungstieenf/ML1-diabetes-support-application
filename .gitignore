@@ -1,0 +1,5 @@
+# Ignore model in dialoGPT
+/model_deeplearning/dialoGPT/model/
+
+# Ignore model in FAISS
+/model_deeplearning/FAISS/model/

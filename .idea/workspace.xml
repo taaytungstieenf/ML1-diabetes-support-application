@@ -1,0 +1,421 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1b564f29-4f79-45da-bd54-00d80daa3421" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FlaskConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform)); sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo, NoAppException&#10;for module in [&quot;main.py&quot;, &quot;wsgi.py&quot;, &quot;app.py&quot;]:&#10;    try: locals().update(ScriptInfo(app_import_path=module, create_app=None).load_app().make_shell_context()); print(&quot;\nFlask App: %s&quot; % app.import_name); break&#10;    except NoAppException: pass">
+    <envs>
+      <env key="FLASK_APP" value="app" />
+    </envs>
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform)); sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo, NoAppException&#10;for module in [&quot;main.py&quot;, &quot;wsgi.py&quot;, &quot;app.py&quot;]:&#10;    try: locals().update(ScriptInfo(app_import_path=module, create_app=None).load_app().make_shell_context()); print(&quot;\nFlask App: %s&quot; % app.import_name); break&#10;    except NoAppException: pass" />
+    <option name="myEnvs">
+      <map>
+        <entry key="FLASK_APP" value="app" />
+      </map>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2var5TBHscdU87DmUAXuAD9xtmv" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;Python.CatBoostClassifier_model.executor&quot;: &quot;Run&quot;,
+    &quot;Python.MAIN.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Visualization.executor&quot;: &quot;Run&quot;,
+    &quot;Python.XGBoost.executor&quot;: &quot;Run&quot;,
+    &quot;Python.api.executor&quot;: &quot;Run&quot;,
+    &quot;Python.app.executor&quot;: &quot;Run&quot;,
+    &quot;Python.boosting_CatBoost.executor&quot;: &quot;Run&quot;,
+    &quot;Python.boosting_LightGBM.executor&quot;: &quot;Run&quot;,
+    &quot;Python.boosting_XGBoost.executor&quot;: &quot;Run&quot;,
+    &quot;Python.boostings_on_curves.executor&quot;: &quot;Run&quot;,
+    &quot;Python.build_faiss.executor&quot;: &quot;Run&quot;,
+    &quot;Python.catboost_model.executor&quot;: &quot;Run&quot;,
+    &quot;Python.chat_with_bot.executor&quot;: &quot;Run&quot;,
+    &quot;Python.comparisons.executor&quot;: &quot;Run&quot;,
+    &quot;Python.data_maipulation.executor&quot;: &quot;Run&quot;,
+    &quot;Python.data_maipulation_script.executor&quot;: &quot;Run&quot;,
+    &quot;Python.decisiontree.executor&quot;: &quot;Run&quot;,
+    &quot;Python.decisiontree_model.executor&quot;: &quot;Run&quot;,
+    &quot;Python.fine_tune_dialoggpt_small.executor&quot;: &quot;Run&quot;,
+    &quot;Python.format_data_for_dialogpt.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lightgbm_model.executor&quot;: &quot;Run&quot;,
+    &quot;Python.logisticregression_model.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.model.executor&quot;: &quot;Run&quot;,
+    &quot;Python.orthers_KNN.executor&quot;: &quot;Run&quot;,
+    &quot;Python.orthers_LogisticRegression.executor&quot;: &quot;Run&quot;,
+    &quot;Python.orthers_NaiveBayes.executor&quot;: &quot;Run&quot;,
+    &quot;Python.orthers_SVM.executor&quot;: &quot;Run&quot;,
+    &quot;Python.preprocess.executor&quot;: &quot;Run&quot;,
+    &quot;Python.preprocess_data.executor&quot;: &quot;Run&quot;,
+    &quot;Python.projectModel.executor&quot;: &quot;Run&quot;,
+    &quot;Python.project_app.executor&quot;: &quot;Run&quot;,
+    &quot;Python.save_model.executor&quot;: &quot;Run&quot;,
+    &quot;Python.train.executor&quot;: &quot;Run&quot;,
+    &quot;Python.train_dialoGPT.executor&quot;: &quot;Run&quot;,
+    &quot;Python.xgboost.executor&quot;: &quot;Run&quot;,
+    &quot;Python.xgboost_model.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/tae/Projects/Capstone 1 – DATA ENGINEERING/DE1-processing-imdb-data&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File&quot;: [
+      &quot;TEXT&quot;,
+      &quot;PLAIN_TEXT&quot;
+    ]
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/embeddings_and_faiss" />
+      <recent name="$PROJECT_DIR$/deeplearning_model" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/raw_data_processing/data_raw" />
+      <recent name="$PROJECT_DIR$/model_deeplearning" />
+      <recent name="$PROJECT_DIR$/FAISS/data" />
+      <recent name="$PROJECT_DIR$/FAISS/model" />
+      <recent name="$PROJECT_DIR$/model_deeplearning/dialogGPT" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.main">
+    <configuration name="build_faiss" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ML1-diabetes-support-application" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/embeddings_and_faiss_for_retrieval-based_chatbot" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/embeddings_and_faiss_for_retrieval-based_chatbot/build_faiss.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ML1-diabetes-support-application" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="preprocess_data" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ML1-diabetes-support-application" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/embeddings_and_faiss_for_retrieval-based_chatbot" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/embeddings_and_faiss_for_retrieval-based_chatbot/preprocess_data.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="preprocess_data" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ML1-diabetes-support-application" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/model_deeplearning" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/model_deeplearning/dialogGPT/preprocess_data.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="train_dialoGPT" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ML1-diabetes-support-application" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/model_deeplearning" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/model_deeplearning/dialogGPT/train_dialoGPT.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main" />
+        <item itemvalue="Python.train_dialoGPT" />
+        <item itemvalue="Python.preprocess_data" />
+        <item itemvalue="Python.preprocess_data" />
+        <item itemvalue="Python.build_faiss" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-09060db00ec0-JavaScript-PY-251.26927.74" />
+        <option value="bundled-python-sdk-657d8234b839-64d779b69b7a-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-251.26927.74" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1b564f29-4f79-45da-bd54-00d80daa3421" name="Changes" comment="" />
+      <created>1744393843084</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1744393843084</updated>
+      <workItem from="1744393844161" duration="662000" />
+      <workItem from="1744394653355" duration="1917000" />
+      <workItem from="1744551525742" duration="30000" />
+      <workItem from="1744561094069" duration="491000" />
+      <workItem from="1744562041310" duration="1729000" />
+      <workItem from="1744565659233" duration="1008000" />
+      <workItem from="1744972208915" duration="7373000" />
+      <workItem from="1745024418863" duration="2863000" />
+      <workItem from="1745030548237" duration="2777000" />
+      <workItem from="1745053701851" duration="759000" />
+      <workItem from="1745116931460" duration="3939000" />
+      <workItem from="1745126781821" duration="1165000" />
+      <workItem from="1745127967038" duration="5614000" />
+      <workItem from="1745155032660" duration="1182000" />
+      <workItem from="1745258519946" duration="348000" />
+      <workItem from="1745259049431" duration="9000" />
+      <workItem from="1745332705100" duration="1921000" />
+      <workItem from="1745390803897" duration="683000" />
+      <workItem from="1745400806632" duration="8910000" />
+      <workItem from="1745460984301" duration="2363000" />
+      <workItem from="1745544056962" duration="1088000" />
+      <workItem from="1745559334811" duration="4542000" />
+      <workItem from="1745565571987" duration="420000" />
+      <workItem from="1745660922312" duration="660000" />
+      <workItem from="1745672235942" duration="489000" />
+      <workItem from="1745736161093" duration="959000" />
+      <workItem from="1745854549837" duration="7262000" />
+      <workItem from="1745895529185" duration="3399000" />
+      <workItem from="1745898942153" duration="11000" />
+      <workItem from="1745900673541" duration="1545000" />
+      <workItem from="1745903612629" duration="1751000" />
+      <workItem from="1745972559839" duration="728000" />
+      <workItem from="1746204173145" duration="40000" />
+      <workItem from="1746761190086" duration="12755000" />
+      <workItem from="1746776318923" duration="2468000" />
+      <workItem from="1746789062943" duration="1395000" />
+      <workItem from="1746932361344" duration="17997000" />
+      <workItem from="1746954525160" duration="293000" />
+      <workItem from="1746976704053" duration="1213000" />
+      <workItem from="1747047401119" duration="4022000" />
+      <workItem from="1747111536179" duration="13512000" />
+      <workItem from="1747320970003" duration="13241000" />
+      <workItem from="1747369790082" duration="12284000" />
+      <workItem from="1747390357991" duration="3483000" />
+      <workItem from="1747408519750" duration="9126000" />
+      <workItem from="1747455500844" duration="17137000" />
+      <workItem from="1747494128495" duration="2497000" />
+      <workItem from="1747530826400" duration="5021000" />
+      <workItem from="1747554749796" duration="2696000" />
+      <workItem from="1747578944607" duration="1261000" />
+      <workItem from="1747691311422" duration="2861000" />
+      <workItem from="1747707137566" duration="626000" />
+      <workItem from="1747714955264" duration="1247000" />
+      <workItem from="1747720578053" duration="201000" />
+      <workItem from="1747841984524" duration="1292000" />
+      <workItem from="1748049420835" duration="641000" />
+      <workItem from="1748075113448" duration="273000" />
+      <workItem from="1748077215201" duration="69000" />
+      <workItem from="1748077356255" duration="18000" />
+      <workItem from="1748283271998" duration="1962000" />
+      <workItem from="1748530856977" duration="7084000" />
+      <workItem from="1748541627354" duration="8502000" />
+      <workItem from="1748570602231" duration="470000" />
+      <workItem from="1748578497814" duration="2827000" />
+      <workItem from="1748588103167" duration="14000" />
+      <workItem from="1748602829738" duration="1111000" />
+      <workItem from="1748605103848" duration="1807000" />
+      <workItem from="1748777739208" duration="2394000" />
+      <workItem from="1749098455831" duration="690000" />
+      <workItem from="1749132930548" duration="679000" />
+      <workItem from="1749140099623" duration="74000" />
+      <workItem from="1749268809998" duration="247000" />
+      <workItem from="1749782998026" duration="17278000" />
+      <workItem from="1749804555740" duration="7409000" />
+      <workItem from="1749818137226" duration="27000" />
+      <workItem from="1749848920406" duration="647000" />
+      <workItem from="1749861597947" duration="14585000" />
+      <workItem from="1749877872072" duration="5481000" />
+      <workItem from="1749932295067" duration="5703000" />
+      <workItem from="1749981169154" duration="784000" />
+      <workItem from="1750038507148" duration="23483000" />
+      <workItem from="1750084920112" duration="1410000" />
+      <workItem from="1750144741477" duration="1196000" />
+      <workItem from="1750170177794" duration="24000" />
+      <workItem from="1750300712387" duration="11469000" />
+      <workItem from="1750346894523" duration="1392000" />
+      <workItem from="1750393880103" duration="9325000" />
+      <workItem from="1750430728827" duration="903000" />
+      <workItem from="1750474966523" duration="2232000" />
+      <workItem from="1750494838851" duration="1269000" />
+      <workItem from="1750511433928" duration="2769000" />
+      <workItem from="1750556870306" duration="2716000" />
+      <workItem from="1750559637599" duration="3606000" />
+      <workItem from="1750584107693" duration="4070000" />
+      <workItem from="1750641684703" duration="10773000" />
+      <workItem from="1750661512556" duration="8335000" />
+      <workItem from="1750738111473" duration="16541000" />
+      <workItem from="1750775411021" duration="4589000" />
+      <workItem from="1750820580344" duration="2522000" />
+      <workItem from="1750828422251" duration="21000" />
+      <workItem from="1751086608179" duration="23000" />
+      <workItem from="1751380655181" duration="201000" />
+      <workItem from="1751385814844" duration="1468000" />
+      <workItem from="1751396003129" duration="2438000" />
+      <workItem from="1751674561791" duration="17909000" />
+      <workItem from="1751696714839" duration="2461000" />
+      <workItem from="1751706027997" duration="8757000" />
+      <workItem from="1751726183591" duration="943000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/capstone3_machinelearning$xgboost_model.coverage" NAME="xgboost_model Coverage Results" MODIFIED="1748536835873" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/boosting_models" />
+    <SUITE FILE_PATH="coverage/capstone3_machinelearning$CatBoostClassifier_model.coverage" NAME="CatBoostClassifier_model Coverage Results" MODIFIED="1744396471596" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/capstone3_machinelearning$orthers_LogisticRegression.coverage" NAME="orthers_LogisticRegression Coverage Results" MODIFIED="1745031933936" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/bigdata02_machinelearning$train_dialoGPT.coverage" NAME="train_dialoGPT Coverage Results" MODIFIED="1751398135335" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/model_deeplearning" />
+    <SUITE FILE_PATH="coverage/capstone3_machinelearning$app.coverage" NAME="app Coverage Results" MODIFIED="1750669342186" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/deeplearning_model" />
+    <SUITE FILE_PATH="coverage/capstone3_machinelearning$catboost_model.coverage" NAME="catboost_model Coverage Results" MODIFIED="1748551268653" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/boosting_models" />
+    <SUITE FILE_PATH="coverage/capstone3_machinelearning$build_faiss.coverage" NAME="build_faiss Coverage Results" MODIFIED="1750746118701" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/embeddings_and_faiss_for_retrieval-based_chatbot" />
+    <SUITE FILE_PATH="coverage/capstone3_machinelearning$train_dialoGPT.coverage" NAME="train_dialoGPT Coverage Results" MODIFIED="1750780181158" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/model_deeplearning" />
+    <SUITE FILE_PATH="coverage/bigdata02_machinelearning$main.coverage" NAME="main Coverage Results" MODIFIED="1751396043179" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/capstone3_machinelearning$lightgbm_model.coverage" NAME="lightgbm_model Coverage Results" MODIFIED="1748550802452" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/boosting_models" />
+    <SUITE FILE_PATH="coverage/capstone3_machinelearning$preprocess.coverage" NAME="preprocess Coverage Results" MODIFIED="1750780070634" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/model_deeplearning" />
+    <SUITE FILE_PATH="coverage/capstone3_machinelearning$model.coverage" NAME="model Coverage Results" MODIFIED="1745403221771" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/backend" />
+    <SUITE FILE_PATH="coverage/capstone3_machinelearning$boosting_CatBoost.coverage" NAME="boosting_CatBoost Coverage Results" MODIFIED="1745026234948" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/capstone3_machinelearning$data_maipulation.coverage" NAME="data_maipulation_script Coverage Results" MODIFIED="1750559549280" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/capstone3_machinelearning$orthers_NaiveBayes.coverage" NAME="orthers_NaiveBayes Coverage Results" MODIFIED="1745031981391" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/capstone3_machinelearning$boosting_XGBoost.coverage" NAME="boosting_XGBoost Coverage Results" MODIFIED="1745032100498" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/bigdata02_machinelearning$preprocess.coverage" NAME="preprocess Coverage Results" MODIFIED="1751398091660" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/model_deeplearning" />
+    <SUITE FILE_PATH="coverage/capstone3_machinelearning$project_app.coverage" NAME="project_app Coverage Results" MODIFIED="1745119909809" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ML1_diabetes_support_application$main.coverage" NAME="main Coverage Results" MODIFIED="1751726478400" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/capstone3_machinelearning$orthers_KNN.coverage" NAME="orthers_KNN Coverage Results" MODIFIED="1745031879667" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/capstone3_machinelearning$projectModel.coverage" NAME="projectModel Coverage Results" MODIFIED="1745128244153" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/capstone3_machinelearning$main.coverage" NAME="main Coverage Results" MODIFIED="1750775658635" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/capstone3_machinelearning$decisiontree_model.coverage" NAME="decisiontree_model Coverage Results" MODIFIED="1744563337347" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/capstone3_machinelearning$logisticregression_model.coverage" NAME="logisticregression_model Coverage Results" MODIFIED="1744975917238" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/capstone3_machinelearning$Visualization.coverage" NAME="Visualization Coverage Results" MODIFIED="1746778110095" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/frontend/pages" />
+    <SUITE FILE_PATH="coverage/capstone3_machinelearning$api.coverage" NAME="api Coverage Results" MODIFIED="1745403681121" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/backend" />
+    <SUITE FILE_PATH="coverage/capstone3_machinelearning$xgboost.coverage" NAME="xgboost_model Coverage Results" MODIFIED="1746762248869" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/boosting_models" />
+    <SUITE FILE_PATH="coverage/capstone3_machinelearning$MAIN.coverage" NAME="MAIN Coverage Results" MODIFIED="1745334839361" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/capstone3_machinelearning$XGBoost.coverage" NAME="XGBoost Coverage Results" MODIFIED="1745402458167" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/model_comparisons" />
+    <SUITE FILE_PATH="coverage/capstone3_machinelearning$preprocess_data.coverage" NAME="preprocess_data Coverage Results" MODIFIED="1750748660321" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/embeddings_and_faiss_for_retrieval-based_chatbot" />
+    <SUITE FILE_PATH="coverage/capstone3_machinelearning$comparisons.coverage" NAME="boostings_on_curves Coverage Results" MODIFIED="1747466127195" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/boosting_models" />
+    <SUITE FILE_PATH="coverage/capstone3_machinelearning$data_maipulation_script.coverage" NAME="data_maipulation_script Coverage Results" MODIFIED="1750752369159" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/raw_data_processing" />
+    <SUITE FILE_PATH="coverage/capstone3_machinelearning$orthers_SVM.coverage" NAME="orthers_SVM Coverage Results" MODIFIED="1745032092724" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/capstone3_machinelearning$boosting_LightGBM.coverage" NAME="boosting_LightGBM Coverage Results" MODIFIED="1745024593546" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/capstone3_machinelearning$decisiontree.coverage" NAME="decisiontree Coverage Results" MODIFIED="1744395474122" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/capstone3_machinelearning$save_model.coverage" NAME="save_model Coverage Results" MODIFIED="1745117523723" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/capstone3_machinelearning$train.coverage" NAME="format_data_for_dialogpt Coverage Results" MODIFIED="1750669028668" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/deeplearning_model" />
+  </component>
+</project>

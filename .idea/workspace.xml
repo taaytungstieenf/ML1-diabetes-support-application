@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1b564f29-4f79-45da-bd54-00d80daa3421" name="Changes" comment="" />
+    <list default="true" id="1b564f29-4f79-45da-bd54-00d80daa3421" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -39,65 +42,65 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;Python.CatBoostClassifier_model.executor&quot;: &quot;Run&quot;,
-    &quot;Python.MAIN.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Visualization.executor&quot;: &quot;Run&quot;,
-    &quot;Python.XGBoost.executor&quot;: &quot;Run&quot;,
-    &quot;Python.api.executor&quot;: &quot;Run&quot;,
-    &quot;Python.app.executor&quot;: &quot;Run&quot;,
-    &quot;Python.boosting_CatBoost.executor&quot;: &quot;Run&quot;,
-    &quot;Python.boosting_LightGBM.executor&quot;: &quot;Run&quot;,
-    &quot;Python.boosting_XGBoost.executor&quot;: &quot;Run&quot;,
-    &quot;Python.boostings_on_curves.executor&quot;: &quot;Run&quot;,
-    &quot;Python.build_faiss.executor&quot;: &quot;Run&quot;,
-    &quot;Python.catboost_model.executor&quot;: &quot;Run&quot;,
-    &quot;Python.chat_with_bot.executor&quot;: &quot;Run&quot;,
-    &quot;Python.comparisons.executor&quot;: &quot;Run&quot;,
-    &quot;Python.data_maipulation.executor&quot;: &quot;Run&quot;,
-    &quot;Python.data_maipulation_script.executor&quot;: &quot;Run&quot;,
-    &quot;Python.decisiontree.executor&quot;: &quot;Run&quot;,
-    &quot;Python.decisiontree_model.executor&quot;: &quot;Run&quot;,
-    &quot;Python.fine_tune_dialoggpt_small.executor&quot;: &quot;Run&quot;,
-    &quot;Python.format_data_for_dialogpt.executor&quot;: &quot;Run&quot;,
-    &quot;Python.lightgbm_model.executor&quot;: &quot;Run&quot;,
-    &quot;Python.logisticregression_model.executor&quot;: &quot;Run&quot;,
-    &quot;Python.main.executor&quot;: &quot;Run&quot;,
-    &quot;Python.model.executor&quot;: &quot;Run&quot;,
-    &quot;Python.orthers_KNN.executor&quot;: &quot;Run&quot;,
-    &quot;Python.orthers_LogisticRegression.executor&quot;: &quot;Run&quot;,
-    &quot;Python.orthers_NaiveBayes.executor&quot;: &quot;Run&quot;,
-    &quot;Python.orthers_SVM.executor&quot;: &quot;Run&quot;,
-    &quot;Python.preprocess.executor&quot;: &quot;Run&quot;,
-    &quot;Python.preprocess_data.executor&quot;: &quot;Run&quot;,
-    &quot;Python.projectModel.executor&quot;: &quot;Run&quot;,
-    &quot;Python.project_app.executor&quot;: &quot;Run&quot;,
-    &quot;Python.save_model.executor&quot;: &quot;Run&quot;,
-    &quot;Python.train.executor&quot;: &quot;Run&quot;,
-    &quot;Python.train_dialoGPT.executor&quot;: &quot;Run&quot;,
-    &quot;Python.xgboost.executor&quot;: &quot;Run&quot;,
-    &quot;Python.xgboost_model.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/tae/Projects/Capstone 1 – DATA ENGINEERING/DE1-processing-imdb-data&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Python.CatBoostClassifier_model.executor": "Run",
+    "Python.MAIN.executor": "Run",
+    "Python.Visualization.executor": "Run",
+    "Python.XGBoost.executor": "Run",
+    "Python.api.executor": "Run",
+    "Python.app.executor": "Run",
+    "Python.boosting_CatBoost.executor": "Run",
+    "Python.boosting_LightGBM.executor": "Run",
+    "Python.boosting_XGBoost.executor": "Run",
+    "Python.boostings_on_curves.executor": "Run",
+    "Python.build_faiss.executor": "Run",
+    "Python.catboost_model.executor": "Run",
+    "Python.chat_with_bot.executor": "Run",
+    "Python.comparisons.executor": "Run",
+    "Python.data_maipulation.executor": "Run",
+    "Python.data_maipulation_script.executor": "Run",
+    "Python.decisiontree.executor": "Run",
+    "Python.decisiontree_model.executor": "Run",
+    "Python.fine_tune_dialoggpt_small.executor": "Run",
+    "Python.format_data_for_dialogpt.executor": "Run",
+    "Python.lightgbm_model.executor": "Run",
+    "Python.logisticregression_model.executor": "Run",
+    "Python.main.executor": "Run",
+    "Python.model.executor": "Run",
+    "Python.orthers_KNN.executor": "Run",
+    "Python.orthers_LogisticRegression.executor": "Run",
+    "Python.orthers_NaiveBayes.executor": "Run",
+    "Python.orthers_SVM.executor": "Run",
+    "Python.preprocess.executor": "Run",
+    "Python.preprocess_data.executor": "Run",
+    "Python.projectModel.executor": "Run",
+    "Python.project_app.executor": "Run",
+    "Python.save_model.executor": "Run",
+    "Python.train.executor": "Run",
+    "Python.train_dialoGPT.executor": "Run",
+    "Python.xgboost.executor": "Run",
+    "Python.xgboost_model.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/home/tae/Projects/Capstone 3 – ARTIFICIAL INTELLEGENCE/ML1-diabetes-support-application",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
+    "vue.rearranger.settings.migration": "true"
   },
-  &quot;keyToStringList&quot;: {
-    &quot;com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File&quot;: [
-      &quot;TEXT&quot;,
-      &quot;PLAIN_TEXT&quot;
+  "keyToStringList": {
+    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
+      "TEXT",
+      "PLAIN_TEXT"
     ]
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
@@ -361,7 +364,9 @@
       <workItem from="1751674561791" duration="17909000" />
       <workItem from="1751696714839" duration="2461000" />
       <workItem from="1751706027997" duration="8757000" />
-      <workItem from="1751726183591" duration="943000" />
+      <workItem from="1751726183591" duration="1155000" />
+      <workItem from="1751729862930" duration="60000" />
+      <workItem from="1751730601680" duration="83000" />
     </task>
     <servers />
   </component>

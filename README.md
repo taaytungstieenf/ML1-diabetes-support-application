@@ -201,12 +201,6 @@ In case of you guys get confusion:
 - Last modified date: 05/07/2025
 
 <p align="center">
-    <img src="https://i.pinimg.com/originals/2f/60/93/2f6093b1b017dd1374d4e1a8039612df.gif" width="195"/>
-    <img src="https://i.pinimg.com/originals/2f/60/93/2f6093b1b017dd1374d4e1a8039612df.gif" width="195"/>
-    <img src="https://i.pinimg.com/originals/2f/60/93/2f6093b1b017dd1374d4e1a8039612df.gif" width="195"/>
-    <img src="https://i.pinimg.com/originals/2f/60/93/2f6093b1b017dd1374d4e1a8039612df.gif" width="195"/>
-    <img src="https://i.pinimg.com/originals/2f/60/93/2f6093b1b017dd1374d4e1a8039612df.gif" width="195"/>
-    <img src="https://i.pinimg.com/originals/98/4e/81/984e81934046c3050464525dfcacb6bc.gif" width="493"/>
-    <img src="https://i.pinimg.com/originals/98/4e/81/984e81934046c3050464525dfcacb6bc.gif" width="493"/>
+    <img src="https://i.pinimg.com/originals/98/4e/81/984e81934046c3050464525dfcacb6bc.gif" width="800"/>
 </p>
 

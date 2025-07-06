@@ -2,13 +2,13 @@
 
 ### A. Project Introduction
 
-The Diabetes Support Application is a comprehensive health-tech solution designed to assist individuals in managing and understanding diabetes. 
+The Diabetes Support Application is a comprehensive health-tech solution designed to help individuals in managing and understanding diabetes. 
 This application integrates advanced machine learning and natural language processing (NLP) techniques to deliver both predictive insights and interactive support for users.
 
 ##### 1. Diabetes prediction module
-This module utilizes state-of-the-art Gradient Boosting algorithms: CatBoost, LightGBM, XGBoost. 
+This module utilizes the latest Gradient Boosting algorithms: CatBoost, LightGBM, XGBoost. 
 These models are trained on health-related features to predict the likelihood of diabetes in users. 
-The use of ensemble learning ensures high prediction accuracy, model interpretability, and performance across diverse datasets.
+[OMIT] ensemble learning ensures high prediction accuracy, model interpretability, and performance across diverse datasets.
 
 ##### 2. Interactive diabetes chatbot
 The chatbot component combines: FAISS for fast vector similarity search using embedding-based semantic retrieval, 
@@ -18,7 +18,7 @@ This allows users to ask questions related to diabetes and receive accurate, con
 ##### 3. Objective
 By combining predictive modeling and conversational AI, this application aims to:
 - Provide early detection support through accurate predictions.
-- Educate and assist users with an interactive chatbot.
+- Educate and help users with an interactive chatbot.
 - Empower patients and caregivers with accessible diabetes knowledge.
 
 ---
@@ -134,16 +134,16 @@ By combining predictive modeling and conversational AI, this application aims to
 ```
 ---
 
-### C. Core Technolies Recap
+### C. Core Technologies Recap
 
-- Backend: Built using Flask to handle requests and serve machine learning predictions
-- Database: Managed with MySQL for storing user data and prediction logs
-- Frontend: An interactive user interface developed with Streamlit
-- Machine Learning Models: Implemented XGBoost, LightGBM, and CatBoost to predict diabetes risk
-- Deep Learning Chatbot: A conversational chatbot built using the DialoGPT model, fine-tuned on data
-- Retrieval-based Chatbot: A question-answering system powered by FAISS for fast and information retrieval
-- Evaluation Tools: Visualization of accuracy, confusion matrix, and feature importance for model assessment
-- Machine Learning Comparison: ROC & Precision-Recall curves
+- Backend: Built using Flask to handle requests and serve machine learning predictions.
+- Database: Managed with MySQL for storing user data and prediction logs.
+- Frontend: An interactive user interface developed with Streamlit.
+- Machine Learning Models: Implemented XGBoost, LightGBM, and CatBoost to predict diabetes risk.
+- Deep Learning Chatbot: A conversational chatbot built using the DialoGPT model, fine-tuned on data.
+- Retrieval-based Chatbot: A question-answering system powered by FAISS for fast and information retrieval.
+- Evaluation Tools: Visualization of accuracy, confusion matrix, and feature importance for model assessment.
+- Machine Learning Comparison: ROC & Precision-Recall curves.
 
 ---
 
@@ -169,8 +169,8 @@ $ cd database
 $ python3 database_functions.py 
 
 # Step 5 - Train Deep Learning model by yourself (because of limitation of GitHub upload capacity)
-$ cd ../model_deeplearning/dialoGPT; python3 train_dialoGPT.py     # ETA: 30 minutes
-$ cd ../FAISS; python3 build_FAISS.py                           # ETA: 15 minutes
+$ cd ../model_deeplearning/dialoGPT; python3 train_dialoGPT.py      # ETA: 30 minutes
+$ cd ../FAISS; python3 build_FAISS.py                               # ETA: 15 minutes
 
 # Step 6 - Initialize backend
 $ cd ../..; python3 main.py
@@ -183,12 +183,12 @@ $ cd frontend; streamlit run HOME.py
 
 ### E. Notes
 
-In case of you guys get confused:
+If of you guys get confused:
 - The final dataset for diabetes prediction is `diabetes_dataset.csv`.
 - The final dataset for diabetes chatbots is `diabetes_dialogue.json`.
-- At frontend, I use a lots of icons in code to make it less bland for UI.
-- This project was completed with the help of chatGPT but not much, please respect the author.
-- If you want to use this project then feel free to use it, it's no need to contact me.
+- When developed frontend, I used a lot of icons in code to make the UI less bland.
+- This project was completed with the help of ChatGPT but not much, please respect the author.
+- If you want to use this project, then feel free to use it, no need to contact me.
 
 ---
 

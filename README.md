@@ -33,6 +33,7 @@ By combining predictive modeling and conversational AI, this application aims to
 |       |______ assessment.py
 |
 |______ ./database
+|       |______ __init__.py
 |       |______ database_config.py
 |       |______ database_functions.py
 |
@@ -50,8 +51,7 @@ By combining predictive modeling and conversational AI, this application aims to
 |       |       |______ Part E2 - DL Model Evaluation.py
 |       |       |______ Part F1 - Diabetic Risk Assessment.py
 |       |       |______ Part F2 - Metrics Visualization.py
-|       |       |______ Part G1 - Sematic Search Chatbot.py
-|       |       |______ Part G2 - Chatbot for Diabetes.py
+|       |       |______ Part F3 - Retrieval-Based & AI Chatbot.py
 |       |______ Home.py
 |
 |______ ./images
@@ -183,8 +183,8 @@ $ cd frontend; streamlit run HOME.py
 
 ### E. Notes
 
-In case of you guys get confusion:
-- The final dataset for diabetes pretiction is `diabetes_dataset.csv`.
+In case of you guys get confused:
+- The final dataset for diabetes prediction is `diabetes_dataset.csv`.
 - The final dataset for diabetes chatbots is `diabetes_dialogue.json`.
 - At frontend, I use a lots of icons in code to make it less bland for UI.
 - This project was completed with the help of chatGPT but not much, please respect the author.

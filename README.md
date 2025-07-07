@@ -127,6 +127,9 @@ By combining predictive modeling and conversational AI, this application aims to
 |______ .gitignore
 |______ diabetes_dataset.csv
 |______ diabetes_dialogues.json
+|______ docker-compose.yml
+|______ Dockerfile.backend
+|______ Dockerfile.frontend
 |______ main.py
 |______ README.md
 |______ requirements.txt
@@ -144,12 +147,15 @@ By combining predictive modeling and conversational AI, this application aims to
 - Retrieval-based Chatbot: A question-answering system powered by FAISS for fast and information retrieval.
 - Evaluation Tools: Visualization of accuracy, confusion matrix, and feature importance for model assessment.
 - Machine Learning Comparison: ROC & Precision-Recall curves.
+- Containizer: Docker to build Docker image & container
 
 ---
 
-### D. Project Installation
+### D. `Project Installation`
 
 ```bash
+SOLUTION 1: install a new virutal environment
+
 # Step 1 - Clone repo
 $ git clone https://github.com/taaytungstieenf/ML1-diabetes-support-application.git
 
@@ -177,6 +183,19 @@ $ cd ../..; python3 main.py
 
 # Step 7 - Initialize frontend
 $ cd frontend; streamlit run HOME.py
+
+SOLUTION 2: install via Docker (make sure you installed Docker already)
+
+# Step 1 - Clone the repo
+$ git clone https://github.com/taaytungstieenf/ML1-diabetes-support-application.git
+$ cd ML1-diabetes-support-application
+
+# Step 2 - Build and run backend & frontend
+$ sudo docker compose up --build
+
+
+# The frontent: http://localhost:8501
+# The backend : http://localhost:5000
 ```
 
 ---

@@ -151,7 +151,7 @@ By combining predictive modeling and conversational AI, this application aims to
 
 ---
 
-### D. `Project Installation`
+### D. Project Installation
 
 ```bash
 SOLUTION 1: install a new virutal environment
@@ -194,8 +194,8 @@ $ cd ML1-diabetes-support-application
 $ sudo docker compose up --build
 
 
-# The frontent: http://localhost:8501
-# The backend : http://localhost:5000
+# Frontent: http://localhost:8501
+# Backend : http://localhost:5000
 ```
 
 ---

@@ -186,8 +186,6 @@ $ cd frontend; streamlit run HOME.py
 In case of you guys get confused:
 - The final dataset for diabetes prediction is `diabetes_dataset.csv`.
 - The final dataset for diabetes chatbots is `diabetes_dialogue.json`.
-- When developed frontend, I used a lot of icons in code to make the UI less bland.
-- This project was completed with the help of ChatGPT but not much, please respect the author.
 - If you want to use this project, then feel free to use it, no need to contact me.
 
 ---
